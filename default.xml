@@ -461,4 +461,5 @@
 
 <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-11.0" />
 <project path="vendor/superuser" name="LinaroDroid/linaro_vendor_superuser" remote="github" revision="kk4.4" groups="devel" />
+<project path="vendor/google/gapps" name="jamesonwilliams/vendor_google_gapps" remote="github" revision="android-4.4.2_r1" />
 </manifest>
