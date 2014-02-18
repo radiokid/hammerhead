@@ -1,6 +1,6 @@
 <manifest>
 <remote name="aosp" fetch="git://android.git.linaro.org/" review="https://review.android.git.linaro.org/"/>
-<remote  name="github" fetch=".." review="review.cyanogenmod.org" />
+<remote name="github" fetch=".." review="review.cyanogenmod.org" />
 
 <default revision="master" remote="aosp" sync-j="4"/>
 <!--  Linaro additions  -->
